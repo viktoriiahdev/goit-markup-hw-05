@@ -1,3 +1,10 @@
+.vscode
+.DS_Store
+*/.DS_Store
+
+icomoon
+
+
 # Logs
 logs
 *.log
